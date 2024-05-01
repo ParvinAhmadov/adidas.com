@@ -1,0 +1,20 @@
+.corusell::-webkit-scrollbar {
+    scrollbar-width: thin;
+    cursor: pointer;
+    height: 5px;
+}
+
+
+
+.corusell::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+.corusell::-webkit-scrollbar-thumb {
+    background: rgb(0, 0, 0);
+}
+
+.corusell:-webkit-scrollbar {
+    cursor: grab;
+}
